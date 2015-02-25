@@ -80,7 +80,7 @@ namespace Orianna
 
 
             Q = new Spell(SpellSlot.Q, 825);
-            W = new Spell(SpellSlot.W, 245);
+            W = new Spell(SpellSlot.W, 240);
             E = new Spell(SpellSlot.E, 1095);
             R = new Spell(SpellSlot.R, 380);
 
